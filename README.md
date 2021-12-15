@@ -4,3 +4,5 @@ La base train contient 25 000 images de chiens et de chats. L'étiquette de chaq
 Pour résoudre ce problème de classification, on va utiliser un modèle pré-entraîné, ResNet-50, en remplaçant uniquement la dernière couche et le comparer avec un modèle CNN basique.
 
 En utilisant le modèle pré-entraîné pour Keras, ResNet-50, on a pu obtenir un modèle assez bon en termes de précision de validation comparant avec le modèle CNN.
+
+projet réalisé par Oumayma Oueslati, Groupe B
